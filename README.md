@@ -9,7 +9,7 @@ Generate pacmen and make them move.
 Download the files. You can work on it locally, or upload to your web server. 
 
 ## Usage
-Open pacmen.html with a code editor like [Visual Studio Code](https://code.visualstudio.com/download) and modify it as needed. 
+Open index.html with a code editor like [Visual Studio Code](https://code.visualstudio.com/download) and modify it as needed. Most of the JavaScript is in the file pacmen.js
 
 ## Support
 If you need help with your JavaScript project, you can email me here: [help@blacksla.sh](mailto:help@blacksla.sh)
